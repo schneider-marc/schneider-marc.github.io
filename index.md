@@ -3,8 +3,19 @@ title: Home
 layout: home
 ---
 
+# Projekt PEBSTER - Piled Embankments with a basal steel reinforcement
+{: .fs-9 }
+
 Diese Seite befindet sich derzeit noch im Aufbau. Diese Seite soll dazu dienen, über die Forschung von Marc Schneider, M.Sc. an Piled Embankments im Rahmen seiner Promotion am Institut für Geotechnik der Technischen Universität Darmstadt zu informieren. 
 
+
+
+
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 ----
