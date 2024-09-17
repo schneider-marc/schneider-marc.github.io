@@ -6,25 +6,18 @@ layout: home
 # Projekt PEBSTER - Piled Embankments with a basal steel reinforcement
 {: .fs-9 }
 
-Diese Seite befindet sich derzeit noch im Aufbau. Diese Seite soll dazu dienen, über die Forschung von Marc Schneider, M.Sc. an Piled Embankments im Rahmen seiner Promotion am Institut für Geotechnik der Technischen Universität Darmstadt zu informieren. 
+This page is currently still under construction. 
+My name is Marc Schneider and I created this page to give an easy overview of our research on Piled Embankments using a steel basal reinforcement. 
+I am researching this topic as part of my doctorate at the Institute of Geotechnical Engineering at the Technical University of Darmstadt.
+
+The research project PEBSTER (Piled Embankments with a Basal Steel Reinforcement) was conducted by an international research team combining the knowledge and experience of the Technical University of Darmstadt (Germany), Keller Holding (Germany), Deltares (Netherlands) and Nerve Sensors (Poland). 
+
+I am grateful to be part of the research team consisting of:
+Marc Schneider, Hauke Zachert - Technical University of Darmstadt
+Marylin Hell, Paul Pandrea, Michał Topolnicki, Pascal Schauber - Keller Holding
+Suzanne J.M. van Eekelen, Britt Wittekoek - Deltares
+Karolina Makowska, Rafał Sieńko - SHM System
+
+The authors are grateful for the funding received from the European Union’s Horizon 2020 research and innovation program under Grant Agreement No. 101006512 for the transnational [GEOLAB](https://project-geolab.eu/) project PEBSTER, the TKI-PPS funding of the Dutch Ministry of Economic Affairs and the financial support from Keller.
 
 
-
-
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
-
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
