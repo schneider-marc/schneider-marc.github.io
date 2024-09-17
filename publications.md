@@ -1,19 +1,32 @@
 ---
-title: Publikationen
-layout: home
+title: Publications
+layout: default
+nav_order: 2 
 ---
+This page gives an overview of all papers created within the research project PEBSTER - Piled Embankments with a Basal Steel Reinforcement.
+The research project was conducted by an international research team combining the knowledge and experience of the Technical University of Darmstadt (Germany), Keller Holding (Germany), Deltares (Netherlands) and Nerve Sensors (Poland). 
 
-Diese Seite befindet sich derzeit noch im Aufbau. Diese Seite soll dazu dienen, über die Forschung von Marc Schneider, M.Sc. an Piled Embankments im Rahmen seiner Promotion am Institut für Geotechnik der Technischen Universität Darmstadt zu informieren. 
+The authors are grateful for the funding received from the European Union’s Horizon 2020 research and innovation program under Grant Agreement No. 101006512 for the transnational [GEOLAB](https://project-geolab.eu/) project PEBSTER, the TKI-PPS funding of the Dutch Ministry of Economic Affairs and the financial support from Keller.
+
+Papers produced within the research project PEBSTER:
+{: .fs-6 }
+
+[1] Schneider, M., Hell, M., Wittekoek, B., Van Eekelen, S. J. M., Schauber, P., Pandrea, P., Topolnicki, M., Makowska, K., and
+Zachert, H., “Untersuchungen zum Tragverhalten von Piled Embankments im Großversuch.,” Vorträge zum 29. Darmstädter
+Geotechnik-Kolloquium. Darmstadt, Germany., 2024.
+[2] Schneider, M., Hell, M., Pandrea, P., Wittekoek, B., Van Eekelen, S. J. M., Topolnicki, M., Makowska, K., Sieńko, R., and Zachert,
+H., “Large-scale test on basal steel-reinforced piled embankments.,” Proc. ECSMGE 24, Lisbon, Portugal., 2024, accepted for
+publication.
+[3] Schneider, M., Hell, M., Wittekoek, B., and Makowska, K., “3D Trag- und Verformungsverhalten stahlbewehrter Erdkörper auf
+vertikalen Traggliedern.,” 38. Baugrundtagung: Vorträge, 2024, accepted for publication.
+[4] Schneider, M., Hell, M., Pandrea, P., Wittekoek, B., Van Eekelen, S. J. M., Topolnicki, M., Makowska, K., Sieńko, R., and Zachert,
+H., “High density spatial measurements on a large-scale model of a basal steel-reinforced piled embankment.,” Proc. ECPMG 24,
+Delft, Netherlands., 2024, accepted for publication.
+[5] Van Eekelen, S. J. M., Schneider, M., Hell, M., Wittekoek, B., Makowska, K., Zdanowicz, K., Pandrea, P., Sieńko, R., Schauber,
+P., Topolnicki, M., and Zachert, H., “3D small-scale tests on steel-reinforced piled embankments.,” Proc. ECSMGE 24, Lisbon,
+Portugal., 2024, accepted for publication.
+[6] Van Eekelen, S. J. M., Schneider, M., Hell, M., Makowska, K., Zdanowicz, K., Wittekoek, B., Pandrea, P., Sieńko, R., Schauber, P.,
+Topolnicki, M., and Zachert, H., “Distributed Fibre Optic Sensing (DFOS) in 3D small-scale tests on steel-reinforced piled
+embankments.,” Proc. ECPMG 24, Delft, Netherlands., 2024, accepted for publication.
 
 
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
