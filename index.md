@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 # Projekt PEBSTER - Piled Embankments with a basal steel reinforcement
