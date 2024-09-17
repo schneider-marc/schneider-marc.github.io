@@ -4,9 +4,6 @@ layout: default
 nav_order: 2 
 ---
 This page gives an overview of all papers created within the research project PEBSTER - Piled Embankments with a Basal Steel Reinforcement.
-The research project was conducted by an international research team combining the knowledge and experience of the Technical University of Darmstadt (Germany), Keller Holding (Germany), Deltares (Netherlands) and Nerve Sensors (Poland). 
-
-The authors are grateful for the funding received from the European Union’s Horizon 2020 research and innovation program under Grant Agreement No. 101006512 for the transnational [GEOLAB](https://project-geolab.eu/) project PEBSTER, the TKI-PPS funding of the Dutch Ministry of Economic Affairs and the financial support from Keller.
 
 Papers produced within the research project PEBSTER:
 {: .fs-6 }
