@@ -18,7 +18,7 @@ publication. [Download PDF](/publications/Schneider et al. Large-scale test on b
 
 [3] Van Eekelen, S. J. M., Schneider, M., Hell, M., Wittekoek, B., Makowska, K., Zdanowicz, K., Pandrea, P., Sieńko, R., Schauber,
 P., Topolnicki, M., and Zachert, H., “3D small-scale tests on steel-reinforced piled embankments.,” Proc. ECSMGE 24, Lisbon,
-Portugal., 2024, accepted for publication. [Download PDF](/publications/van Eekelen et al. 3D small-scale tests on steel-reinforced piled embankments 2024.pdf)<br>
+Portugal., 2024. [Download PDF](/publications/van Eekelen et al. 3D small-scale tests on steel-reinforced piled embankments 2024.pdf)<br>
 
 [4] Schneider, M., Hell, M., Wittekoek, B., and Makowska, K., “3D Trag- und Verformungsverhalten stahlbewehrter Erdkörper auf
 vertikalen Traggliedern.,” 38. Baugrundtagung: Vorträge, 2024, accepted for publication.<br>
