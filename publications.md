@@ -14,10 +14,10 @@ Geotechnik-Kolloquium. Darmstadt, Germany., 2024. [Download PDF](/publications/P
 
 [2] Schneider, M., Hell, M., Pandrea, P., Wittekoek, B., Van Eekelen, S. J. M., Topolnicki, M., Makowska, K., Sieńko, R., and Zachert,
 H., “Large-scale test on basal steel-reinforced piled embankments.,” Proc. ECSMGE 24, Lisbon, Portugal., 2024, accepted for
-publication.<br>
+publication. [Download PDF](/publications/Schneider et al. Large-scale test on basal steel-reinforced piled embankments 2024.pdf)<br>
 
 [3] Schneider, M., Hell, M., Wittekoek, B., and Makowska, K., “3D Trag- und Verformungsverhalten stahlbewehrter Erdkörper auf
-vertikalen Traggliedern.,” 38. Baugrundtagung: Vorträge, 2024, accepted for publication.<br>
+vertikalen Traggliedern.,” 38. Baugrundtagung: Vorträge, 2024. [Download PDF](/publications/van Eekelen et al. 3D small-scale tests on steel-reinforced piled embankments 2024.pdf)<br>
 
 [4] Schneider, M., Hell, M., Pandrea, P., Wittekoek, B., Van Eekelen, S. J. M., Topolnicki, M., Makowska, K., Sieńko, R., and Zachert,
 H., “High density spatial measurements on a large-scale model of a basal steel-reinforced piled embankment.,” Proc. ECPMG 24,
