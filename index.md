@@ -8,7 +8,7 @@ nav_order: 1
 {: .fs-9 }
 
 This page is currently still under construction. 
-My name is Marc Schneider and I created this page to give an easy overview of our research on Piled Embankments using a steel basal reinforcement. 
+My name is [Marc Schneider](https://www.geotechnik.tu-darmstadt.de/institut_ivg/mitarbeitende_ivg/mitarbeiterliste_ivg_details_107072.de.jsp) and I created this page to give an easy overview of our research on Piled Embankments using a steel basal reinforcement. 
 I am researching this topic as part of my doctorate at the Institute of Geotechnical Engineering at the Technical University of Darmstadt.
 
 The research project PEBSTER (Piled Embankments with a Basal Steel Reinforcement) was conducted by an international research team combining the knowledge and experience of the Technical University of Darmstadt (Germany), Keller Holding (Germany), Deltares (Netherlands) and Nerve Sensors (Poland). 
