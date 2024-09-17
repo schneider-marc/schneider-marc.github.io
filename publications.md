@@ -10,7 +10,7 @@ Papers produced within the research project PEBSTER:
 
 [1] Schneider, M., Hell, M., Wittekoek, B., Van Eekelen, S. J. M., Schauber, P., Pandrea, P., Topolnicki, M., Makowska, K., and
 Zachert, H., “Untersuchungen zum Tragverhalten von Piled Embankments im Großversuch.,” Vorträge zum 29. Darmstädter
-Geotechnik-Kolloquium. Darmstadt, Germany., 2024.[Download PDF](schneider-marc.github.io/publications/PEBSTER _Darmstädter_Geotechnik-Kolloquium.pdf)<br>
+Geotechnik-Kolloquium. Darmstadt, Germany., 2024. [Download PDF](schneider-marc.github.io/publications/PEBSTER _Darmstädter_Geotechnik-Kolloquium.pdf)<br>
 
 [2] Schneider, M., Hell, M., Pandrea, P., Wittekoek, B., Van Eekelen, S. J. M., Topolnicki, M., Makowska, K., Sieńko, R., and Zachert,
 H., “Large-scale test on basal steel-reinforced piled embankments.,” Proc. ECSMGE 24, Lisbon, Portugal., 2024, accepted for
