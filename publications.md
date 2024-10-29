@@ -20,7 +20,7 @@ P., Topolnicki, M., and Zachert, H., “3D small-scale tests on steel-reinforced
 Portugal, 2024. [Available on Researchgate](https://www.researchgate.net/publication/384852027_3D_small-scale_tests_on_steel-reinforced_piled_embankments)<br>
 
 [4] Schneider, M., Hell, M., Wittekoek, B., and Makowska, K., “3D Trag- und Verformungsverhalten stahlbewehrter Erdkörper auf
-vertikalen Traggliedern.,” 38. Baugrundtagung: Vorträge, 2024. [Available on Researchgate](https://www.researchgate.net/publication/385344889_3D_Trag-_und_Verformungsverhalten_stahlbewehrter_Erdkorper_auf_vertikalen_Traggliedern)<br>
+vertikalen Traggliedern.,” 38. Baugrundtagung: Beiträge der Spezialsitzung, 2024. [Available on Researchgate](https://www.researchgate.net/publication/385344889_3D_Trag-_und_Verformungsverhalten_stahlbewehrter_Erdkorper_auf_vertikalen_Traggliedern)<br>
 
 [5] Schneider, M., Hell, M., Pandrea, P., Wittekoek, B., Van Eekelen, S. J. M., Topolnicki, M., Makowska, K., Sieńko, R., and Zachert,
 H., “High density spatial measurements on a large-scale model of a basal steel-reinforced piled embankment.,” Proc. ECPMG 24,
