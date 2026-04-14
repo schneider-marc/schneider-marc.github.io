@@ -32,3 +32,5 @@ embankments.,” Proc. ECPMG 24, Delft, Netherlands., 2024. DOI: 10.53243/ECPMG2
 
 [7] Van Eekelen, S.J.M., Schneider, M., Hell, M., Pandrea, P., Schauber, P., Toppolnicki, M., Makowska, K., Bezuijen, A., Zachert, H., 2025. Soil arching in geosynthetic and steel grid-reinforced pile-supported embankments. Proc. Eurogeo8, Lille, France. DOI: 10.1051/e3sconf/202564403002. [Available on Researchgate](https://www.researchgate.net/publication/395163103_Soil_arching_in_geosynthetic_and_steel_grid-reinforced_pile-supported_embankments).<br>
 
+[8] Schneider, M., van Eekelen, S.J.M., Hell, M., Pandrea, P., Topolnicki, M., Zachert, H., (2026). Physical Modelling of Basal Reinforced Piled Embankments: Five Key factors and Project Insights. Proc. ICPMG 26, Zürich, Switzerland. Accepted for publication. <br>
+
